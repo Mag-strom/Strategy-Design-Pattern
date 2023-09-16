@@ -26,7 +26,7 @@ namespace TravellStrategy.TravellingStrategies
             // Adjust the KilometerCost based on the number of kilometers traveled
             if (Kilometers < 100)
             {
-                KilometerCost = KilometerCost * 2;
+                KilometerCost *= 2;
             }
             else if (Kilometers >= 100 && Kilometers < 500)
             {
