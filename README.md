@@ -7,3 +7,7 @@ In Real life applications of Strategy design pattern like  a simple traveler app
 
 # Design
 <img alt="Design" src="./Design.png">
+
+# Environment
+The project builds and runs with Visual Studio Community 2022 when the required workloads are installed.
+
